@@ -1,33 +1,17 @@
-  .TH man 2 "28 Jan 2021" "1.0"  "holberton man page"
-
-  .SH NAME
-
-  .B holberton
-
-  - Holberton School was founded in San Francisco by Sylvain Kalache and Julien Barbier.
-
-  .SH SYNOPSIS
-
-  holberton
-
-  .SH DESCRIPTION
-
-  Holberton School is teaches students based on projects.
-
-  .SH OPTIONS
-
-  .B holberton
-
-  does not take any options. 
-
-  .SH SEE ALSO
-
-  .I Collaboration, projectbased
-
-  .SH BUGS
-
-  No known bugs.
-
-  .SH AUTHOR
-
-  Julien Barbier, Sylvain Kalache.
+0;276;0c .TH man 2 "04 May 2015" "0.32" "holberton man page"
+.SH NAME
+.B holberton
+- holberton School was founded in San Francisco by Sylvain Kalache and Julien Barbier.
+.SH SYNOPSIS
+holberton
+.SH DESCRIPTION
+holberton School well known school in the world, by its compatable curriculum and by its teaching process.
+.SH OPTIONS
+.B holbeton
+does not take any options.
+.SH SEE ALSO
+ holberton will lead the future education system by peerlearning(2), projectbased(2), fullstack(2), adventures(1)
+ .SH BUGS
+ No known bugs.
+ .SH AUTHOR
+ Julien Barbier, Sylvain Kalache and other holberon teams.
